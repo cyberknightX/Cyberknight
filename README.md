@@ -11,7 +11,7 @@
 ## Organizations
 <p align="left"> 
   <a href="https://www.mit.edu/" target="_blank"> 
-    <img src="https://libraries.mit.edu/img/mit-logo/MIT-logo-sq.png" alt="mit" height="200"/>  
+    <img src="img/MIT.png" alt="MIT" height="200"/>  
   </a>                                                                                                              
   <a href="https://www.ibm.com/" target="_blank"> 
     <img src="https://www.ibm.com/brand/experience-guides/developer/b1db1ae501d522a1a4b49613fe07c9f1/01_8-bar-positive.svg" alt="ibm" width="200" height="200"/> 
