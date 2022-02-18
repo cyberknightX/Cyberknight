@@ -17,3 +17,10 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGEImGrx4kvEO8N16cvNNuPcXkZLJZRQUA6r8UKEHscxCXta614eDF8o9QrN07F0d3b7w&usqp=CAU" alt="iit" width="200" height="200">
   </a>
 </p>
+
+## Partners
+<p align="left">
+  <a href="https://advr.iit.it/" target="_blank"> 
+    <img src="https://advr.iit.it/storage/iit-advr-t2.png" alt="advr" width="305" height="75"/> 
+  </a>
+</p>  
