@@ -16,7 +16,7 @@
    <a href="https://openlearning.mit.edu/courses-programs/" target="_new"> 
     <img src="img/MIT_Open_Learning.png" alt="MIT Open Learning" height="200"/>  
   </a>
-   <a href="https://openlearning.mit.edu/courses-programs/mitx-courses" target="_new"> 
+   <a href="https://openlearning.mit.edu/courses-programs/mitx-courses/" target="_new"> 
     <img src="img/MITx.png" alt="MITx" height="200"/>  
   </a>
   <a href="https://www.ibm.com/" target="_blank"> 
