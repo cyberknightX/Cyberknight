@@ -22,6 +22,9 @@
   <a href="https://xpro.mit.edu/" target="_blank"> 
     <img src="img/MIT_xPRO.png" alt="MIT_xPRO" height="200"/>  
   </a>
+   <a href="https://harvard.edu/" target="_blank"> 
+    <img src="img/Harvard.png" alt="Harvard" height="200"/>  
+  </a>
   <a href="https://www.ibm.com/" target="_blank"> 
     <img src="img/IBM.png" alt="IBM" width="200" height="200"/> 
   </a> 
