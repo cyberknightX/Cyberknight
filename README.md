@@ -10,14 +10,17 @@
 
 ## Organizations
 <p align="left"> 
-  <a href="https://www.mit.edu/" target="_new"> 
+  <a href="https://www.mit.edu/" target="_blank"> 
     <img src="img/MIT.png" alt="MIT" height="200"/>  
   </a>
-   <a href="https://openlearning.mit.edu/courses-programs/" target="_new"> 
+  <a href="https://openlearning.mit.edu/courses-programs/" target="_blank"> 
     <img src="img/MIT_Open_Learning.png" alt="MIT Open Learning" height="200"/>  
   </a>
-   <a href="https://openlearning.mit.edu/courses-programs/mitx-courses/" target="_new"> 
+  <a href="https://openlearning.mit.edu/courses-programs/mitx-courses/" target="_blank"> 
     <img src="img/MITx.png" alt="MITx" height="200"/>  
+  </a>
+  <a href="https://xpro.mit.edu/" target="_blank"> 
+    <img src="img/MIT_xPRO.png" alt="MIT_xPRO" height="200"/>  
   </a>
   <a href="https://www.ibm.com/" target="_blank"> 
     <img src="https://www.ibm.com/brand/experience-guides/developer/b1db1ae501d522a1a4b49613fe07c9f1/01_8-bar-positive.svg" alt="ibm" width="200" height="200"/> 
