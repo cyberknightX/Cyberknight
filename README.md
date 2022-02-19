@@ -37,6 +37,9 @@
   <a href="https://ethz.ch/en.html" target="_blank"> 
     <img src="img/ETH_Zurich.png" alt="ETH_Zurich" height="200"/>  
   </a> 
+  <a href="https://www.polimi.it/en" target="_blank"> 
+    <img src="img/Polimi.png" alt="Polimi" height="200"/>  
+  </a> 
   <a href="https://www.ibm.com/" target="_blank"> 
     <img src="img/IBM.png" alt="IBM" width="200" height="200"/> 
   </a> 
