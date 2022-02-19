@@ -27,7 +27,7 @@
   </a>
   </a>
    <a href="https://harvardx.harvard.edu/" target="_blank"> 
-    <img src="img/HarvardX.png" alt="Harvard" height="200"/>  
+    <img src="img/HarvardX.png" alt="HarvardX" height="200"/>  
   </a>
   <a href="https://www.ibm.com/" target="_blank"> 
     <img src="img/IBM.png" alt="IBM" width="200" height="200"/> 
