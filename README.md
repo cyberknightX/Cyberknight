@@ -46,12 +46,15 @@
   <a href="https://www.unive.it/" target="_blank"> 
     <img src="img/Ca'_Foscari.png" alt="Ca'_Foscari" height="200"/>  
   </a> 
-  <a href="https://www.ibm.com/" target="_blank"> 
-    <img src="img/IBM.png" alt="IBM" width="200" height="200"/> 
+  <a href="https://www.unige.it/" target="_blank"> 
+    <img src="img/Unige.png" alt="Unige" height="200"/>  
   </a> 
   <a href="https://www.iit.it" target="_blank"> 
     <img src="img/IIT.png" alt="IIT" width="200" height="200">
   </a>
+   <a href="https://www.ibm.com/" target="_blank"> 
+    <img src="img/IBM.png" alt="IBM" width="200" height="200"/> 
+  </a> 
 </p>
 
 ## Partners
