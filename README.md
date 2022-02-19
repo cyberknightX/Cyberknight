@@ -31,7 +31,7 @@
   <a href="https://www.berkeley.edu/" target="_blank"> 
     <img src="img/Berkeley.png" alt="Berkeley" height="200"/>  
   </a>
-  <a href="https://www.berkeleyx.berkeley.edu/" target="_blank"> 
+  <a href="https://berkeleyx.berkeley.edu/" target="_blank"> 
     <img src="img/BerkeleyX.png" alt="BerkeleyX" height="200"/>  
   </a>
   <a href="https://www.ibm.com/" target="_blank"> 
