@@ -56,10 +56,10 @@
     <img src="img/IBM.png" alt="IBM" width="200" height="200"/> 
   </a> 
   <a href="https://www.ibm.com/security" target="_blank"> 
-    <img src="img/IBM_Security.png" alt="IBM" width="200" height="200"/> 
+    <img src="img/IBM_Security.png" alt="IBM_Security" width="200" height="200"/> 
   </a> 
   <a href="https://www.ibm.com/cloud" target="_blank"> 
-    <img src="img/IBM_Cloud.png" alt="IBM" width="200" height="200"/> 
+    <img src="img/IBM_Cloud.png" alt="IBM_Cloud" width="200" height="200"/> 
   </a> 
 </p>
 
