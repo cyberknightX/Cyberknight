@@ -55,6 +55,10 @@
    <a href="https://www.ibm.com/" target="_blank"> 
     <img src="img/IBM.png" alt="IBM" width="200" height="200"/> 
   </a> 
+   <a href="https://www.ibm.com/security" target="_blank"> 
+    <img src="img/IBM_Security.png" alt="IBM" width="200" height="200"/> 
+  </a> 
+  
 </p>
 
 ## Partners
