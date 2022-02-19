@@ -34,6 +34,9 @@
   <a href="https://berkeleyx.berkeley.edu/" target="_blank"> 
     <img src="img/BerkeleyX.png" alt="BerkeleyX" height="200"/>  
   </a>
+  <a href="https://ethz.ch/en.html" target="_blank"> 
+    <img src="img/ETH_Zurich.png" alt="ETH_Zurich" height="200"/>  
+  </a> 
   <a href="https://www.ibm.com/" target="_blank"> 
     <img src="img/IBM.png" alt="IBM" width="200" height="200"/> 
   </a> 
