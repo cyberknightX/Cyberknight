@@ -67,7 +67,9 @@
   <a href="https://www.ibm.com/training/" target="_blank"> 
     <img src="img/IBM_Training.png" alt="IBM_Training" width="200" height="200"/> 
   </a> 
-  
+  <a href="https://quantum-computing.ibm.com/" target="_blank"> 
+    <img src="img/IBM_Quantum.png" alt="IBM_Quantum" width="200" height="200"/> 
+  </a> 
 </p>
 
 ## Partners
