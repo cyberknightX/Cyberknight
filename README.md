@@ -40,8 +40,11 @@
   <a href="https://www.polimi.it/en" target="_blank"> 
     <img src="img/Polimi.png" alt="Polimi" height="200"/>  
   </a> 
-   <a href="https://www.unimore.it/" target="_blank"> 
+  <a href="https://www.unimore.it/" target="_blank"> 
     <img src="img/Unimore.png" alt="Unimore" height="200"/>  
+  </a> 
+  <a href="https://www.unive.it/" target="_blank"> 
+    <img src="img/Ca'_Foscari.png" alt="Ca'_Foscari" height="200"/>  
   </a> 
   <a href="https://www.ibm.com/" target="_blank"> 
     <img src="img/IBM.png" alt="IBM" width="200" height="200"/> 
