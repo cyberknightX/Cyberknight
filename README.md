@@ -64,6 +64,9 @@
   <a href="https://research.ibm.com/" target="_blank"> 
     <img src="img/IBM_Research.png" alt="IBM_Research" width="200" height="200"/> 
   </a> 
+  <a href="https://www.ibm.com/training/" target="_blank"> 
+    <img src="img/IBM_Training.png" alt="IBM_Training" width="200" height="200"/> 
+  </a> 
   
 </p>
 
