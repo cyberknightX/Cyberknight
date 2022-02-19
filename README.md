@@ -70,6 +70,9 @@
   <a href="https://quantum-computing.ibm.com/" target="_blank"> 
     <img src="img/IBM_Quantum.png" alt="IBM_Quantum" width="200" height="200"/> 
   </a> 
+   <a href="https://edx.org" target="_blank"> 
+    <img src="img/edX.png" alt="edX" width="200" height="200"/> 
+  </a> 
 </p>
 
 ## Partners
