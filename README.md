@@ -2,6 +2,7 @@
 
 ## JavaScript-based web frameworks
 - [jQuery](https://github.com/jquery/jquery)
+- [Dojo](https://github.com/dojo/framework)
 
 ## Python web frameworks
 - [Django](https://github.com/django/django)
