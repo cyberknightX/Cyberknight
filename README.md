@@ -1,5 +1,9 @@
 # Cyberknight
 
+## Deep Learning
+- [PyTorch](https://github.com/pytorch)
+- [Keras](https://github.com/keras-team/keras)
+
 ## JavaScript runtime environment
 - [Node.js](https://github.com/nodejs/node)
 
