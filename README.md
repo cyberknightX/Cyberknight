@@ -2,7 +2,9 @@
 
 ## Blockchain
 - [Ethereum](https://github.com/ethereum)
+- [Solidity](https://github.com/ethereum/solidity)
 - [Solana](https://github.com/solana-labs)
+- [Rust](https://github.com/rust-lang)
 
 ## Robotics
 - [iCub](https://icub.iit.it)
