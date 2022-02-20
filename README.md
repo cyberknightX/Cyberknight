@@ -1,6 +1,6 @@
 # Cyberknight
 
-## Web frameworks
+## Python web frameworks
 - [Django](https://github.com/django/django)
 
 ## Programming Languages
