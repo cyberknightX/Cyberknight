@@ -4,7 +4,7 @@
 
 - [Solidity](https://github.com/ethereum/solidity)
 - [Rust](https://github.com/rust-lang)
-- 
+
 ## Blockchain
 - [Ethereum](https://github.com/ethereum)
 - [Solana](https://github.com/solana-labs)
