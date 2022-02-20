@@ -1,7 +1,7 @@
 # Cyberknight
 
 ## JavaScript-based web frameworks
-- [jQuery]((https://github.com/jquery/jquery)
+- [jQuery](https://github.com/jquery/jquery)
 
 ## Python web frameworks
 - [Django](https://github.com/django/django)
