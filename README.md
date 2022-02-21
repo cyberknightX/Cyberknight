@@ -4,6 +4,7 @@
 - [Numpy](https://github.com/numpy/numpy)
 - [SciPy](https://github.com/scipy/scipy)
 - [Matplotlib](https://github.com/matplotlib/matplotlib)
+- [scikit-learn](https://github.com/scikit-learn/scikit-learn)
 
 ## Deep Learning
 - [PyTorch](https://github.com/pytorch)
