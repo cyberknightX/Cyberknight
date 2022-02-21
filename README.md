@@ -3,6 +3,7 @@
 ## Python Libraries
 - [Numpy](https://github.com/numpy/numpy)
 - [SciPy](https://github.com/scipy/scipy)
+- [Matplotlib](https://github.com/matplotlib/matplotlib)
 
 ## Deep Learning
 - [PyTorch](https://github.com/pytorch)
