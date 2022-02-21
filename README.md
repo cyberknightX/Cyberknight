@@ -3,6 +3,7 @@
 ## Quantum Computing
 - [Qiskit](https://github.com/Qiskit/qiskit)
 - [OpenQASM](https://github.com/Qiskit/openqasm)
+- [PyQuil](https://github.com/rigetti/PyQuil)
 
 ## Python Libraries
 - [Numpy](https://github.com/numpy/numpy)
