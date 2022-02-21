@@ -1,5 +1,9 @@
 # Cyberknight
 
+## Python Libraries
+- [Numpy](https://github.com/numpy/numpy)
+- [SciPy](https://github.com/scipy/scipy)
+
 ## Deep Learning
 - [PyTorch](https://github.com/pytorch)
 - [Tensorflow](https://github.com/tensorflow/tensorflow)
