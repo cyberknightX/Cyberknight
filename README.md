@@ -118,6 +118,9 @@
   <a href="https://www.coursera.org/" target="_blank"> 
     <img src="img/coursera.png" alt="coursera" width="200" height="200"/> 
   </a> 
+   <a href="https://www.ieee.org/" target="_blank"> 
+    <img src="img/IEEE.png" alt="IEEE" width="200" height="200"/> 
+  </a> 
 </p>
 
 ## Partners
